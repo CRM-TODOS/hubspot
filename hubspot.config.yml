@@ -1,0 +1,14 @@
+defaultPortal: CRM_CDT_Prod
+portals:
+  - name: CRM_CDT_Prod
+    portalId: 5338832
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CLTr2ZqHMRIRAA0AAAAA4A0AQAIAAEAAADgY0O3FAiDG-eoUKO7pDDIU5kkwQ-jQn47vHCDSe3JXD7Nhmmk6NwAABEEAAAB4AAAAAAAAAAAAAAAAAAAABAAAwAcA_v8xPAAAAABEAGAAAAAAAAAIAAAAAAAADPxCFIZuMCXWVuJN8ezHwYgzqBGv_b5hSgNuYTFSAFoA
+        expiresAt: '2023-05-31T19:43:46.121Z'
+    personalAccessKey: >-
+      CiQ0MDcxN2FiNC1jYmE0LTQ0MTQtYWIzNS1kZDBhNDM4NDYyYTIQ0O3FAhjG-eoUKhkABeaRgsmyj3LiEpA1DAoDGDzvlttw_IyRSgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
